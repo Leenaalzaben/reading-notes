@@ -1,4 +1,4 @@
-# Reading-Notes
+# Reading-Notes 
 
 ## Code 102 - Intro to Software Development
 
@@ -80,7 +80,7 @@ and there are some common operations and their corresponding Big O notations:
 
 
 ## Things I want to know more about
-
+Learn how to use Python to create networked applications, also how Python related with machine learning and data science
 ## Code 201 - Foundations of Software Development
 
 ## Code 301 - Intermediate Software Development
