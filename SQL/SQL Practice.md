@@ -35,3 +35,4 @@ So the relational databases and SQL are fundamental tools for managing and analy
 1. <https://www.w3schools.com/sql/>
 2. <https://www.udacity.com/course/sql-for-data-analysis--ud198>
 3. <https://sqlbolt.com/lesson/select_queries_introduction>
+4. <https://teachcomputerscience.com/relational-databases-and-sql/>
