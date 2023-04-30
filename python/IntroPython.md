@@ -23,4 +23,7 @@
 1. Python has a simpler syntax than JavaScript.
 2. Python has better readability than JavaScript. 
 3. Python has better memory management than JavaScript.
-4. JavaScript can be used to run on the frontend, whereas python is on server-side programming or backend.
+4. JavaScript can be used to run on the frontend, whereas python is on server-side programming or backend. <br><br><br>
+
+`The installation for py is complete` <br><br>
+![python](./pythonvresion.png)
