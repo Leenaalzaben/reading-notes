@@ -11,7 +11,7 @@
 
 4. To ensures that the code is always tested, repeat the process after refactoring, you should write another failing test and repeat the process.
 
-#  Main Gate ...
+# Main Gate
 
 The `if __name__ == '__main__' ` statement in Python is used to determine whether a script is being run as the main program or being imported as a module by another script. This helps to ensure that certain code is executed only when the script is run as the main program and not when it is being used as a module by another script. In simpler terms, it allows you to write code that can be both used as a standalone program and as a module  can be imported into other programs.
 
