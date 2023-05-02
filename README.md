@@ -16,7 +16,6 @@
 | Reading |[Reading](./ReadingEngineer/Reading.md)|
 | SQL | [SQL](./SQL/SQL%20Practice.md)|
 |Terminal Practice  | [Terminal Practice](./TerminalPractice%20/Terminal.md)  |
-<!-- | Class_01 | [Class_01](./Class_01/Class01.md) | -->
 
 | Read Classes | No. | |
 | -------- | -------- | -------- |
