@@ -8,14 +8,12 @@
 
 ## Code 401 - Advanced Software Development
 
-| Prep | #1    | #2    |
+| Prep | #1    |   |
 | :---:   | :---: | :---: |
 | Data structure | [Data structure](./Data%20Structures/DataStructures.md)   |
 | Mindset | [Mindset](./Mindset/Mindset.md)  |
 | python | [python](./python/IntroPython.md)  |
-| Reading |[Reading](./Reading%20Engineer/Reading.md)
-  |
-| SQL | [SQL](./SQL/SQL%20Practice.md)
- |
+| Reading |[Reading](./Reading%20Engineer/Reading.md)|
+| SQL | [SQL](./SQL/SQL%20Practice.md)|
 |Terminal Practice  | [Terminal Practice](./Terminal%20Practice%20/Terminal.md)  |
 | Class_01 | [Class_01](./Class_01/Class01.md) |
