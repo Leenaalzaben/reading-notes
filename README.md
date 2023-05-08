@@ -22,7 +22,7 @@
 | Class_01| [Class_01](./Class_01/Class01.md) |
 | Class_01 | [Class_02](./Class_02/Class_02.md) |
 | Class_03 | [Class_03](./Class_03/Class_03.md)|
-| Class_04 | [Class_04]()|
+| Class_04 | [Class_04](./Class_04/Class_04.md)|
 | Class_05 | [Class_05]()|
 | Class_06 | [Class_06]()|
 | Class_07 | [Class_07]()|
