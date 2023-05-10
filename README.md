@@ -23,7 +23,7 @@
 | Class_01 | [Class_02](./Class_02/Class_02.md) |
 | Class_03 | [Class_03](./Class_03/Class_03.md)|
 | Class_04 | [Class_04](./Class_04/Class_04.md)|
-| Class_05 | [Class_05]()|
+| Class_05 | [Linked_Lists](./LinkedLists/LinkedLists.md)|
 | Class_06 | [Class_06]()|
 | Class_07 | [Class_07]()|
 | Class_08 | [Class_08]()|
