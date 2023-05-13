@@ -17,14 +17,18 @@
 | SQL | [SQL](./SQL/SQL%20Practice.md)|
 |Terminal Practice  | [Terminal Practice](./TerminalPractice%20/Terminal.md)  |
 
-| Read Classes | No. | |
+| Class_PartI | No. | |
 | -------- | -------- | -------- |
 | Class_01| [Class_01](./Class_01/Class01.md) |
 | Class_01 | [Class_02](./Class_02/Class_02.md) |
 | Class_03 | [Class_03](./Class_03/Class_03.md)|
 | Class_04 | [Class_04](./Class_04/Class_04.md)|
 | Class_05 | [lists](./lists/lists.md)|
-| Class_06 | [Class_06]()|
+
+| Class_PartII | No. | |
+| -------- | -------- | -------- |
+| Class_06 | [Class_06](./Class_06/Class_06.md)|
 | Class_07 | [Class_07]()|
 | Class_08 | [Class_08]()|
-
+| Class_09 | [Class_09]()|
+| Class_10 | [Class_10]()|
