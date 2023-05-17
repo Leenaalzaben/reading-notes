@@ -29,6 +29,6 @@
 | -------- | -------- | -------- |
 | Class_06 | [Ten Thousand Game](./Class_06/Class_06.md)|
 | Class_07 | [Ten Thousand 2](./Class_07/Class_07.md)|
-| Class_08 | [Class_08]()|
+| Class_08 | [Stacks and Queues](./Class_08/Class_08.md)|
 | Class_09 | [Class_09]()|
 | Class_10 | [Class_10]()|
