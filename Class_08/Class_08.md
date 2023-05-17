@@ -30,7 +30,7 @@ A queue is an ordered collection of elements where the insertion happens at one 
 - **Rear:** Returns the rear element without removing it.
 - **IsEmpty:** Checks if the queue is empty.
 - **Size:** Returns the number of elements in the queue.<br><br>
-![Class_08](./difference-between-stack-queue.jpg)
+![Stacks and Queues](./difference-between-stack-queue.jpg)
 
 Queues are commonly used in scenarios like scheduling processes, handling requests in web servers, breadth-first search (BFS) algorithms, and simulations.
 
