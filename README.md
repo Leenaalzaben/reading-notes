@@ -20,7 +20,7 @@
 | Class_PartI | No. | |
 | -------- | -------- | -------- |
 | Class_01| [Class_01](./Class_01/Class01.md) |
-| Class_01 | [TDD in Python](./Class_02/Class_02.md) |
+| Class_02 | [TDD in Python](./Class_02/Class_02.md) |
 | Class_03 | [Files in Python](./Class_03/Class_03.md)|
 | Class_04 | [Classes and objects](./Class_04/Class_04.md)|
 | Class_05 | [lists](./lists/lists.md)|
@@ -35,7 +35,7 @@
 | Class_PartIII | No. | |
 | -------- | -------- | -------- |
 | Class_10 | [Class_10]()|
-| Class_11 | [Class_11]()|
+| Class_11 | [Jupyter](./Class_11/Class_11.md)|
 | Class_12 | [Class_12]()|
 | Class_13 | [Class_13]()|
 | Class_14 | [Class_14]()|
