@@ -38,5 +38,5 @@
 | Class_11 | [Jupyter](./Class_11/Class_11.md)|
 | Class_12 | [Pandas](./Class_12/Class_12.md)|
 | Class_13 | [Linear Regression in py](./Class_13/Class_13.md)|
-| Class_14 | [Class_14]()|
+| Class_14 | [Data Visualization](./Class_14/Class_14.md)|
 | Class_15 | [Class_15]()|
