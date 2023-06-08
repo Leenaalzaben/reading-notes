@@ -1,11 +1,5 @@
 # Reading-Notes
 
-## Code 102 - Intro to Software Development
-
-## Code 201 - Foundations of Software Development
-
-## Code 301 - Intermediate Software Development
-
 ## Code 401 - Advanced Software Development
 
 | Prep | #1    |   |
@@ -39,4 +33,14 @@
 | Class_12 | [Pandas](./Class_12/Class_12.md)|
 | Class_13 | [Linear Regression in py](./Class_13/Class_13.md)|
 | Class_14 | [Data Visualization](./Class_14/Class_14.md)|
-| Class_15 | [Class_15]()|
+| Class_15 | [Trees](./Class_15/Class_15.md)|
+
+
+
+| Class_Part IV | No. | |
+| -------- | -------- | -------- |
+| Class_16 | [Class_16]()|
+| Class_17 | [Class_17]()|
+| Class_18 | [Class_18]()|
+| Class_19 | [Class_19]()|
+| Class_20 | [Class_20]()|
