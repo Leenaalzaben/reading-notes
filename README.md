@@ -41,6 +41,10 @@
 | -------- | -------- | -------- |
 | Class_16 | [Serverless Functions](./Class_16/Class_16.md)|
 | Class_17 | [Web Scraping](./Class_17/Class_17.md)|
-| Class_18 | [Class_18]()|
-| Class_19 | [Class_19]()|
-| Class_20 | [Class_20]()|
+
+
+
+| Class_Part V | No. | |
+| -------- | -------- | -------- |
+| Class_26 | [Django](./Class_26/Class_26.md)|
+| Class_17 | |
