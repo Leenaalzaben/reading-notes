@@ -47,4 +47,10 @@
 | Class_Part V | No. | |
 | -------- | -------- | -------- |
 | Class_26 | [Django](./Class_26/Class_26.md)|
-| Class_17 | |
+| Class_27 | [Django Models](./Class_27/Class_27.md)|
+| Class_28 | |
+| Class_29 | |
+| Class_30 | |
+
+
+
