@@ -48,7 +48,7 @@
 | -------- | -------- | -------- |
 | Class_26 | [Django](./Class_26/Class_26.md)|
 | Class_27 | [Django Models](./Class_27/Class_27.md)|
-| Class_28 | |
+| Class_28 | [Django CRUD and Forms](./Class_28/Class_28.md)|
 | Class_29 | |
 | Class_30 | |
 
