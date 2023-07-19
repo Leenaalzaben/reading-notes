@@ -35,14 +35,10 @@
 | Class_14 | [Data Visualization](./Class_14/Class_14.md)|
 | Class_15 | [Trees](./Class_15/Class_15.md)|
 
-
-
 | Class_Part IV | No. | |
 | -------- | -------- | -------- |
 | Class_16 | [Serverless Functions](./Class_16/Class_16.md)|
 | Class_17 | [Web Scraping](./Class_17/Class_17.md)|
-
-
 
 | Class_Part V | No. | |
 | -------- | -------- | -------- |
@@ -50,7 +46,12 @@
 | Class_27 | [Django Models](./Class_27/Class_27.md)|
 | Class_28 | [Django CRUD and Forms](./Class_28/Class_28.md)|
 | Class_29 | [Djangox](./Class_29/Class_29.md)|
-| Class_30 | |
+| Class_30 | [Hash Tables](./Class_30/Class_30.md)|
 
-
-
+| Class_Part VI | No. | |
+| -------- | -------- | -------- |
+| Class_31 |
+| Class_32 |
+| Class_33 |
+| Class_34 |
+| Class_35 |
