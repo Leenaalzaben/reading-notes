@@ -51,7 +51,7 @@
 | Class_Part VI | No. | |
 | -------- | -------- | -------- |
 | Class_31 |[Django REST Framework & Docker](./Class_31/Class_31.md)
-| Class_32 |
+| Class_32 |[Permissions & Postgresql](./Class_32/Class_32.md)
 | Class_33 |
 | Class_34 |
 | Class_35 |
