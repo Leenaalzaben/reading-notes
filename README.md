@@ -53,5 +53,5 @@
 | Class_31 |[Django REST Framework & Docker](./Class_31/Class_31.md)
 | Class_32 |[Permissions & Postgresql](./Class_32/Class_32.md)
 | Class_33 |[Authentication & Production Server](./Class_33/Class_33.md)
-| Class_34 |
+| Class_34 |[API Deployment](./Class_34/Class_34.md)
 | Class_35 |
